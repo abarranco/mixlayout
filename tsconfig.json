@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "outDir": "App/www",
+    "sourceMap": true,
+    "watch": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
