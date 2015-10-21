@@ -1,1 +1,1 @@
-console.log('Copying modules to')
+console.log('INIT MODULE')

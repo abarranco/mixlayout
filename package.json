@@ -15,7 +15,6 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-notify": "^0.4.1",
     "grunt-ts": "^5.1.0",
-    "http-server": "^0.8.5",
     "load-grunt-tasks": "^3.3.0"
   }
 }

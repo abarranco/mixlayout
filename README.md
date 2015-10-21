@@ -8,8 +8,6 @@ Additional info:
 
 *installed jspm local for dev
 *installed TypeScript as a transpiler
-*installed http-server for dev with npm (jspm still does not support server packages to be installed):
-    - Used to start a server and developing the app
 *installed grunt-cli with npm for ordinary tasks
 
 GRUNT TASKS:
