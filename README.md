@@ -24,3 +24,5 @@ GRUNT PLUGINS
 - load-grunt-task: Automatic load grunt tasks
 - grunt ts: Compile typescript
 - grunt-notify: Notifies when sources are compiled with changes in a modal popup
+- grunt-contrib-copy: Copy html files, js files to deploy dir App/www
+- grunt-contrib-watch: Watch for changes in configured files

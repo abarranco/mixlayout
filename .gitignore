@@ -2,10 +2,13 @@
 .idea
 
 # Directorio de despliegue de la aplicación
-App
+App/www
 
 # Modulos de node, se instalan con npm install
 node_modules
 
 # Dependencias del proyecto de jspm, se descargan con jspm install
 src/jspm_packages
+
+# Grunt-ts file
+.baseDir.ts
